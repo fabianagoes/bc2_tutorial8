@@ -10,7 +10,7 @@ Official schedule for this tutorial can be found [here](https://www.bc2.ch/tutor
 - Aparajita Karmakar, The University of Edinburgh and The Rosalind Franklin Institute
 
 #### Slides
-- Lecture: Introduction to Large Language Models (LLMs) and Genomics [📁 slides](/slides/Part1_Representation_Learning_for_Nucleic_Acid_Sequences.pdf)
+- Lecture: Introduction to NLP concepts (Tokens & Embeddings) [📁 slides](/slides/Part1_Representation_Learning_for_Nucleic_Acid_Sequences.pdf)
 - Lecture: Fine-tuning LLMs for genomic downstream tasks [📁 slides](/slides/Part2_Representation_Learning_Embeddings.pdf)
   
 ## Getting ready for T8
@@ -43,7 +43,7 @@ If you wish to keep a copy of the repo locally
 
 Practical 1 focuses on understanding basics of Natural Language processing --> Tokens and Embeddings.
 
-[Open Practical 1 in Colab]()
+[Open Practical 1 in Colab](https://colab.research.google.com/github/fabianagoes/bc2_tutorial8/blob/main/BC2_Tutorial_Part1.ipynb)
 
 ## Practical 2
 
