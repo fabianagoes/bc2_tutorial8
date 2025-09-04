@@ -41,30 +41,15 @@ If you wish to keep a copy of the repo locally
 
 ## Practical 1
 
-Practical 1 focuses on learning representations to encode nucleic acid sequences and using these encodings/representations to train and evaluate simple machine learning models for classification tasks.
+Practical 1 focuses on understanding basics of Natural Language processing --> Tokens and Embeddings.
 
-[Open Practical 1 in Colab](https://colab.research.google.com/github/fabianagoes/ismb_tutorial8/blob/main/tutorial_practical1_colab.ipynb)
+[Open Practical 1 in Colab]()
 
 ## Practical 2
 
-Practical 2 focuses on learning vector representations to encode nucleic acid sequences using word embedding techniques and large language models (LLMs). The learned embeddings are then used to train and evaluate some popular LLMs for sequence-based prediction tasks.
+Practical 2 
 
 [Open Practical 2.1 in Colab](https://colab.research.google.com/github/fabianagoes/ismb_tutorial8/blob/main/tutorial_practical2_1_colab.ipynb)
 
 [Open Practical 2.2 in Colab](https://colab.research.google.com/github/fabianagoes/ismb_tutorial8/blob/main/tutorial_practical2_2_colab.ipynb)
 
-## Resources
-
-### Feature Engineering tools
-- iFeatureOmega: https://github.com/Superzchen/iFeature
-- iLean: https://github.com/Superzchen/iLearn
-- MathFeature: https://github.com/Bonidia/MathFeature
-
-### LLMs
-- DNABERT2: https://github.com/MAGICS-LAB/DNABERT_2
-- Nucleotide Tranformer: https://github.com/instadeepai/nucleotide-transformer
-- RNA-FM: https://github.com/ml4bio/RNA-FM
-
-### Datasets
-
-The datasets used in this tutorial are based on the Genome Understanding Evaluation (GUE) benchmark proposed by DNABERT2 authors. GUE is a broad and well-structured benchmark designed to evaluate models across multiple genome analysis tasks. It includes a diverse collection of datasets covering various tasks and species, making it a valuable resource for assessing model performance in genomic sequence understanding. More details available at: https://arxiv.org/abs/2306.15006.
