@@ -47,9 +47,22 @@ Practical 1 focuses on understanding basics of Natural Language processing --> T
 
 ## Practical 2
 
-Practical 2 
+Practical 2 focuses on understanding how to fine-tuning LLMs for genomic downstream tasks
 
-[Open Practical 2.1 in Colab](https://colab.research.google.com/github/fabianagoes/ismb_tutorial8/blob/main/tutorial_practical2_1_colab.ipynb)
+[Open Practical 2.1 in Colab](https://colab.research.google.com/github/fabianagoes/bc2_tutorial8/blob/main/BC2_Tutorial_Part2.ipynb)
 
-[Open Practical 2.2 in Colab](https://colab.research.google.com/github/fabianagoes/ismb_tutorial8/blob/main/tutorial_practical2_2_colab.ipynb)
+[Open Practical 2.2 in Colab](https://colab.research.google.com/github/fabianagoes/bc2_tutorial8/blob/main/BC2_Tutorial_Part2_2.ipynb)
 
+## Resources
+
+### Hugging Face
+- A collaborative platform that enables users to build, train, and deploy NLP and ML models with open-source code: https://huggingface.co/
+
+### LLMs
+- DNABERT2: https://github.com/MAGICS-LAB/DNABERT_2
+- Nucleotide Tranformer: https://github.com/instadeepai/nucleotide-transformer
+- RNA-FM: https://github.com/ml4bio/RNA-FM
+
+### Datasets
+
+The datasets used in this tutorial are based on the Genome Understanding Evaluation (GUE) benchmark proposed by DNABERT2 authors. GUE is a broad and well-structured benchmark designed to evaluate models across multiple genome analysis tasks. It includes a diverse collection of datasets covering various tasks and species, making it a valuable resource for assessing model performance in genomic sequence understanding. More details available at: https://arxiv.org/abs/2306.15006.
