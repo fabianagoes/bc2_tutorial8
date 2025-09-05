@@ -49,7 +49,7 @@ Practical 1 focuses on understanding basics of Natural Language processing --> T
 
 Practical 2 focuses on understanding how to fine-tuning LLMs for genomic downstream tasks
 
-[Open Practical 2.1 in Colab](https://colab.research.google.com/github/fabianagoes/bc2_tutorial8/blob/main/BC2_Tutorial_Part2.ipynb)
+[Open Practical 2 in Colab](https://colab.research.google.com/github/fabianagoes/bc2_tutorial8/blob/main/BC2_Tutorial_Part2.ipynb)
 
 ## Resources
 
