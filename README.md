@@ -55,6 +55,8 @@ Practical 2 focuses on understanding how to fine-tuning LLMs for genomic downstr
 
 ### Hugging Face
 - A collaborative platform that enables users to build, train, and deploy NLP and ML models with open-source code: https://huggingface.co/
+- https://huggingface.co/zhihan1996/DNABERT-2-117M
+- https://huggingface.co/collections/InstaDeepAI/nucleotide-transformer-65099cdde13ff96230f2e592
 
 ### LLMs
 - DNABERT2: https://github.com/MAGICS-LAB/DNABERT_2
