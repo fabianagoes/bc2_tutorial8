@@ -51,8 +51,6 @@ Practical 2 focuses on understanding how to fine-tuning LLMs for genomic downstr
 
 [Open Practical 2.1 in Colab](https://colab.research.google.com/github/fabianagoes/bc2_tutorial8/blob/main/BC2_Tutorial_Part2.ipynb)
 
-[Open Practical 2.2 in Colab](https://colab.research.google.com/github/fabianagoes/bc2_tutorial8/blob/main/BC2_Tutorial_Part2_2.ipynb)
-
 ## Resources
 
 ### Hugging Face
