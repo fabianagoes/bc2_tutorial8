@@ -10,8 +10,8 @@ Official schedule for this tutorial can be found [here](https://www.bc2.ch/tutor
 - Aparajita Karmakar, The University of Edinburgh and The Rosalind Franklin Institute
 
 #### Slides
-- Lecture: Introduction to NLP concepts (Tokens & Embeddings) [📁 slides](/slides/Part1_Representation_Learning_for_Nucleic_Acid_Sequences.pdf)
-- Lecture: Fine-tuning LLMs for genomic downstream tasks [📁 slides](/slides/Part2_Representation_Learning_Embeddings.pdf)
+- Lecture: Introduction to NLP concepts (Tokens & Embeddings) [📁 slides](/slides/Part1_Tokens_Embeddings.pptx)
+- Lecture: Fine-tuning LLMs for genomic downstream tasks [📁 slides](/slides/Part2_Finetuning_LLMs.pdf)
   
 ## Getting ready for T8
 ### What would you need?
