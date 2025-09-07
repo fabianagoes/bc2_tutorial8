@@ -1,6 +1,6 @@
 ## Basel Computational Biology Conference 2025 - Tutorial T8 on "LLMs in genomics: decoding genomic sequences with advanced representations"
 
-This tutorial focuses on learning various ways to represent sequences for machine learning applications. Practical 1 focuses on ... while Practical 2 focuses on ... .
+This tutorial focuses on learning various ways to represent sequences for machine learning applications. Practical 1 focuses on tokenization for genomic sequences while Practical 2 focuses on fine-tuning LLMs for genomic downstream tasks.
 
 #### Schedule
 Official schedule for this tutorial can be found [here](https://www.bc2.ch/tutorials-workshops).
